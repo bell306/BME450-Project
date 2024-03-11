@@ -1,6 +1,5 @@
-# BME450-RashIdentification
 ## Title
-Rash Identification
+BME450-RashIdentification
 ## Team members
 Megha Gupta (guptamegha2020) & Alex Bell (bell306)
 ## Project decription
