@@ -2,7 +2,7 @@
 # # Title
 Rash Identification
 ## Team members
-NameA (GitHubUserA), NameB (GitHubUserB)
+guptamegha2020 & bell306
 ## Project decription
 Max ½ page. Include some information on:
 - what dataset you plan to use
