@@ -2,7 +2,7 @@
 # # Title
 Rash Identification
 ## Team members
-guptamegha2020 (Megha Gupta) & bell306 (Alex Bell)
+Megha Gupta (guptamegha2020) & Alex Bell (bell306)
 ## Project decription
 Max ½ page. Include some information on:
 - what dataset you plan to use
