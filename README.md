@@ -1,5 +1,5 @@
 # BME450-RashIdentification
-# # Title
+## Title
 Rash Identification
 ## Team members
 Megha Gupta (guptamegha2020) & Alex Bell (bell306)
